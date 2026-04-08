@@ -71,6 +71,13 @@ To ensure reliability, results are **averaged over multiple simulation runs**.
 
 ---
 
+##Project Report
+
+* Full detailed preliminary report (PDF):
+[View Report](https://drive.google.com/file/d/1aRctiU7f11OecbyXNNSrfn_ZASoJOIqE/view?usp=drivesdk)
+
+---
+
 ##  How to Run
 
 ```bash
